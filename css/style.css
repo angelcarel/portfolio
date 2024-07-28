@@ -54,13 +54,19 @@ body {
 }
 
 button {
-  padding: 25px;
+  padding: 15px;
   background-color: #E4E2DD;
   border: none;
 }
 
 button:hover, button:focus, button.active {
   color: #004AAD;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .highlighted {
@@ -123,7 +129,7 @@ nav .bi-list {
 * Header
 */
 header {
-  color: #272727;
+  background-color: #272727;
 }
 
 
@@ -145,8 +151,8 @@ background-color:#E4E2DD;
 
 
 .portfolio .menu {
-  margin-top: 90px;
-  margin-bottom: 60px;
+  margin-top: 80px;
+  margin-bottom: 50px;
 }
 
 .portfolio .menu a {
@@ -237,38 +243,7 @@ background-color:#E4E2DD;
   margin-top: -65px;
 }
 
-/*
- * Expertize accordion
- */
-.expertize {
-  background-color: #272727;
-  color: white;
-}
 
-.expertize .item {
-  padding-top: 90px;
-  padding-bottom: 60px;
-}
-
-.expertize .active {
-  background-color: red;
-  color: blue;
-}
-
-.expertize button {
-  background-color: #272727;
-  color: white;
-  font-size: 39px;
-}
-
-.expertize button:hover {
-  color: #004AAD;
-}
-
-#expertize {
-  padding-top: 160px;
-  margin-top: -160px;
-}
 
 /*
  * About section
