@@ -37,7 +37,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #004AAD;
+  color: #7a288c;
 }
 
 /*
@@ -60,7 +60,7 @@ button {
 }
 
 button:hover, button:focus, button.active {
-  color: #004AAD;
+  color: #7a288c;
 }
 
 .center {
@@ -70,7 +70,7 @@ button:hover, button:focus, button.active {
 }
 
 .highlighted {
-  color: #004AAD;
+  color: #7a288c;
 }
 
 .shadow-bg {
@@ -86,7 +86,7 @@ button:hover, button:focus, button.active {
 }
 
 .active {
-  color: #004AAD;
+  color: #7a288c;
 }
 
 .hidden {
@@ -113,11 +113,11 @@ nav .nav-item {
 }
 
 nav .nav-item:hover, nav .nav-item:focus {
-  color: #004AAD;
+  color: #7a288c;
 }
 
 nav .active {
-  color: #004AAD;
+  color: #7a288c;
 }
 
 nav .bi-list {
@@ -161,7 +161,7 @@ background-color:#E4E2DD;
 }
 
 .portfolio .menu a:hover {
-  color: #004AAD;
+  color: #7a288c;
 }
 
 .portfolio .gallery {
@@ -191,7 +191,7 @@ background-color:#E4E2DD;
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #004AAD;
+  background-color: #7a288c;
   opacity: 100%;
   overflow: hidden;
   width: 100%;
@@ -277,7 +277,7 @@ footer {
 }
 
 footer span {
-  color: #004AAD;
+  color: #7a288c;
 }
 footer {
  background-color:#272727;
